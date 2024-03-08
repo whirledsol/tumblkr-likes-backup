@@ -1,0 +1,14 @@
+{
+  "name": "tumblr-likes-backup",
+  "version": "1.0.0",
+  "description": "parses through tumblr likes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "whirledsol",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
